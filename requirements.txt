@@ -1,0 +1,6 @@
+albumentations >=1.0.0
+opencv-python
+torchsummary
+grad-cam
+
+
